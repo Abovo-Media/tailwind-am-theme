@@ -1,0 +1,20 @@
+{
+   "name": "@abovomedia/tailwind-am-theme",
+   "version": "1.0",
+   "description": "Abovo Maxlead tailwind theme",
+   "author": {
+      "name": "Robbin Schut",
+      "email": "robbin@abovo.nl"
+   },
+   "homepage": "https://www.abovomaxlead.nl",
+   "license": "MIT",
+   "main": "index.js",
+   "files": [
+      "src/*.js",
+      "index.js"
+   ],
+   "repository": "https://github.com/Abovo-Media/tailwind-am-theme",
+   "dependencies": {
+      "tailwindcss": "^3.1.8"
+   }
+}
