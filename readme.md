@@ -11,7 +11,7 @@ Add the following dependency to your package.json
 ```json
 {
    "dependencies": {
-      "tailwind-am-theme": "*"
+      "tailwind-am-theme": "git+https://github.com/Abovo-Media/tailwind-am-theme"
    }
 }
 ```
