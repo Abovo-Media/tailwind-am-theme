@@ -4,15 +4,18 @@ const themeColors     = require("./src/colors");
 const fonts           = require("./src/fonts");
 const logos           = require("./src/logos");
 
-module.exports = plugin(function({ addBase, addComponents }) {
-   addBase(fonts);
-
-   addComponents(logos);
-}, {
+module.exports = {
    theme: {
       extend: {
          fontFamily: themeFontFamily,
          colors:     themeColors
       },
-   }
-});
+   },
+   plugins: [
+      plugin(function({ addBase, addComponents }) {
+         addBase(fonts);
+
+         addComponents(logos);
+      })
+   ]
+}

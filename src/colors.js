@@ -37,10 +37,12 @@ module.exports = {
       },
    },
    "amb": {
-      "care":  "#FFC600",
-      "do":    "#FF9000",
-      "think": "#FF5C00",
-      "see":   "#D12A00"
+      "orange": {
+         "care":  "#FFC600",
+         "do":    "#FF9000",
+         "think": "#FF5C00",
+         "see":   "#D12A00"
+      },
    },
    "m": {
       "red": {

@@ -1,6 +1,6 @@
 # Tailwind config for Abovo Media Theme
 
-![version](https://img.shields.io/badge/Version-1.0-brightgreen?style=flat)
+![version](https://img.shields.io/badge/Version-1.1-brightgreen?style=flat)
 
 ---
 
@@ -27,4 +27,4 @@ Add the following preset to your tailwind.config.js
 ```
 
 ## Example usage
-See [examples](examples/index.html)
+See [examples](https://abovo-media.github.io/tailwind-am-theme/examples/index.html)
