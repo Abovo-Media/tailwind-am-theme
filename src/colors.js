@@ -1,20 +1,20 @@
 module.exports = {
    "a":   {
       "blue":     {
-         "care":     "#000079",
-         "do":       "#000EC7",
-         "think":    "#6A70C0",
-         "see":      "#B3B7EB",
+         "see":      "#000079",
+         "think":    "#000EC7",
+         "do":       "#6A70C0",
+         "care":     "#B3B7EB",
          1:          "#F2F3FF",
          2:          "#E2E4FE"
       },
    },
    "am":  {
       "purple":    {
-         "care":     "#670777",
-         "do":       "#A908B5",
-         "think":    "#D05FD8",
-         "see":      "#D48ADA"
+         "see":      "#670777",
+         "think":    "#A908B5",
+         "do":       "#D05FD8",
+         "care":     "#D48ADA",
       },
       "blue":      {
          DEFAULT:    "#00003F"
@@ -38,18 +38,18 @@ module.exports = {
    },
    "amb": {
       "orange": {
-         "care":  "#FFC600",
-         "do":    "#FF9000",
+         "see":   "#D12A00",
          "think": "#FF5C00",
-         "see":   "#D12A00"
+         "do":    "#FF9000",
+         "care":  "#FFC600",
       },
    },
    "m": {
       "red": {
-         "care":  "#FFADC4",
-         "do":    "#FF80A3",
+         "see":   "#B30000",
          "think": "#FB1455",
-         "see":   "#B30000"
+         "do":    "#FF80A3",
+         "care":  "#FFADC4",
       },
    }
 };

@@ -1,6 +1,6 @@
 # Tailwind config for Abovo Media Theme
 
-![version](https://img.shields.io/badge/Version-1.2-brightgreen?style=flat)
+![version](https://img.shields.io/badge/Version-1.3-brightgreen?style=flat)
 
 ---
 
