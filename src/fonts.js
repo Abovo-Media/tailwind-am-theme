@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
    '@font-face' : [
       {
          fontFamily:   '"Chivo"',
