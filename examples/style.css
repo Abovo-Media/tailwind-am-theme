@@ -1154,25 +1154,25 @@ video {
 
 .bg-a-blue-see {
   --tw-bg-opacity: 1;
-  background-color: rgb(179 183 235 / var(--tw-bg-opacity));
+  background-color: rgb(0 0 121 / var(--tw-bg-opacity));
 }
 
 
 .bg-a-blue-think {
   --tw-bg-opacity: 1;
-  background-color: rgb(106 112 192 / var(--tw-bg-opacity));
+  background-color: rgb(0 14 199 / var(--tw-bg-opacity));
 }
 
 
 .bg-a-blue-do {
   --tw-bg-opacity: 1;
-  background-color: rgb(0 14 199 / var(--tw-bg-opacity));
+  background-color: rgb(106 112 192 / var(--tw-bg-opacity));
 }
 
 
 .bg-a-blue-care {
   --tw-bg-opacity: 1;
-  background-color: rgb(0 0 121 / var(--tw-bg-opacity));
+  background-color: rgb(179 183 235 / var(--tw-bg-opacity));
 }
 
 
@@ -1184,25 +1184,25 @@ video {
 
 .bg-am-purple-see {
   --tw-bg-opacity: 1;
-  background-color: rgb(212 138 218 / var(--tw-bg-opacity));
+  background-color: rgb(103 7 119 / var(--tw-bg-opacity));
 }
 
 
 .bg-am-purple-think {
   --tw-bg-opacity: 1;
-  background-color: rgb(208 95 216 / var(--tw-bg-opacity));
+  background-color: rgb(169 8 181 / var(--tw-bg-opacity));
 }
 
 
 .bg-am-purple-do {
   --tw-bg-opacity: 1;
-  background-color: rgb(169 8 181 / var(--tw-bg-opacity));
+  background-color: rgb(208 95 216 / var(--tw-bg-opacity));
 }
 
 
 .bg-am-purple-care {
   --tw-bg-opacity: 1;
-  background-color: rgb(103 7 119 / var(--tw-bg-opacity));
+  background-color: rgb(212 138 218 / var(--tw-bg-opacity));
 }
 
 
